@@ -1,3 +1,3 @@
 # Tumor-heterogeneity-assessment
 
-!(../master/Tumor-heerogeneity-assessment/workflow.jpeg)
+!(https://github.com/xinlingl/Tumor-heterogeneity-assessment/blob/main/workflow.jpg)
