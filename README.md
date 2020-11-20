@@ -6,7 +6,7 @@ This tool use Bayesian clustering method to predict tumor heterogeneity from who
 
 **step 1: Index the input whole exome sequencing files**
 
-Using samtools to index the whole exome sequencing files (.bam) of tumor and normal sample.
+Using samtools to index the whole exome sequencing files (.bam) of tumor and normal sample.<br />
 
 
 
@@ -18,7 +18,7 @@ Use bcftools to extract chromosome number and position of in the vcf file. Mutat
 
 **step 3: Calculate read counts**
 
-Use alleleCount to calculate count of A, G, C, T, and read depth at each locus in both normal and tumor sample.(space,space)
+Use alleleCount to calculate count of A, G, C, T, and read depth at each locus in both normal and tumor sample.
 
 
 
