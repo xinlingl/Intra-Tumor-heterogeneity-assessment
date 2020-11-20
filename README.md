@@ -3,6 +3,7 @@
 ![alt tag](https://github.com/xinlingl/Tumor-heterogeneity-assessment/blob/main/workflow.jpg)
 
 This tool use Bayesian clustering method to predict tumor heterogeneity from whole exsome sequencing data of patients with solid tumor 
+
 <br />
 
 **step 1: Index the input whole exome sequencing files**
@@ -34,6 +35,7 @@ Use alleleCount to calculate count of A, G, C, T, and read depth at each locus i
 **step 6: Extract allelic counts from mutation file**
 
 Use bcftools to extract reference and variance allele counts of each somatic mutation in the mutation file. Somatic mutations on X and Y chromosome and mitochondria are excluded for simplicity.
+
 <br />
 
 **step 7: Combine copy number information and allelic counts**
