@@ -2,7 +2,7 @@
 
 ![alt tag](https://github.com/xinlingl/Tumor-heterogeneity-assessment/blob/main/workflow.jpg)
 
-This tool uses Bayesian clustering method to predict tumor heterogeneity from whole exsome sequencing data of patients with solid tumor 
+This tool uses Bayesian clustering method to predict intra-tumor heterogeneity from whole exsome sequencing data of patients with solid tumor 
 
 <br />
 
