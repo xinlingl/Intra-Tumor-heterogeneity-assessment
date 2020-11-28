@@ -12,9 +12,9 @@ Using samtools to index the whole exome sequencing files (.bam) of tumor and nor
 
 <br />
 
-**step 2: Extract location of mutations information from vcf file**
+**step 2: Extract location of mutations information from VCF file**
 
-Use bcftools to extract chromosome number and position of in the vcf file. Mutations on X and Y chromosomes and mitochondria are excluded.
+Use bcftools to extract chromosome numbers and positions of somatic mutations in a VCF file. 
 
 <br />
 
@@ -34,7 +34,7 @@ Use alleleCount to calculate count of A, G, C, T, and read depth at each locus i
 
 **step 6: Extract allelic counts from mutation file**
 
-Use bcftools to extract reference and variance allele counts of each somatic mutation in the mutation file. Somatic mutations on X and Y chromosome and mitochondria are excluded for simplicity.
+Use bcftools to extract reference and variance allele counts of each somatic mutation in the mutation file. 
 
 <br />
 
