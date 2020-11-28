@@ -1,4 +1,4 @@
-# Tumor-heterogeneity-assessment
+# Intra-tumor-heterogeneity-assessment
 
 ![alt tag](https://github.com/xinlingl/Tumor-heterogeneity-assessment/blob/main/workflow.jpg)
 
